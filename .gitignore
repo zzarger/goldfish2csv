@@ -1,2 +1,3 @@
 path/
-!.gitignore
+storage/
+.DS_Store
